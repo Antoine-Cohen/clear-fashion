@@ -1,7 +1,7 @@
 // Invoking strict mode https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode#invoking_strict_mode
 'use strict';
 
-// git add -A && git commit -m "Noms d'exercice et find a specific product"
+// git add -A && git commit -m "Test 15:47"
 // git push origin master
 
 console.log('🚀 This is it.');
