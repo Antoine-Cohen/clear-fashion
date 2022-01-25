@@ -20,8 +20,6 @@ const MY_FAVORITE_BRANDS = [{
 console.table(MY_FAVORITE_BRANDS);
 console.log(MY_FAVORITE_BRANDS[0]);
 
-console.log('Test');
-
 /**
  * 🌱
  * Let's go with a very very simple first todo
