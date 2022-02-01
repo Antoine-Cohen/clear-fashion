@@ -17,6 +17,8 @@ const MY_FAVORITE_BRANDS = [{
 console.table(MY_FAVORITE_BRANDS);
 console.log(MY_FAVORITE_BRANDS[0]);
 
+//ddkdkd
+
 
 
 /**
